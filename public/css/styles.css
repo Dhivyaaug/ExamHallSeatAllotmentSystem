@@ -1,0 +1,7 @@
+html{
+    background-image: url(public\Image\LoginBG.jpeg.jpeg);
+    background-size: cover;
+  };
+#wc,#center{
+    align-items:center;
+}
