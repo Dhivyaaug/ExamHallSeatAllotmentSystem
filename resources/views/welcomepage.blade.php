@@ -2,8 +2,8 @@
 <html>
 <head>
     <meta charset="UTC-8">
-    <link href="{{asset('public/css/styles.css') }}" rel="style">
-    <img alt="BG" src="{{asset('public/images/LoginBG.jpeg') }}">
+    <link href="{{ asset('css/styles.css') }}" type="text/css" rel="stylesheet">
+    <img alt="BG" src="{{asset('Image/LoginBG.jpeg') }}">
 </head>
 <body>
  <h1 id ="wc"> WELCOME! </h1>
